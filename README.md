@@ -3,6 +3,7 @@ lmao
 <h3 align="left">
   You can contact me on <a href='discord.com/users/1331688031593173094'>Discord</a> 
 </h3>
+
 ```bat
 set %discord% = horizon7006
 echo.
