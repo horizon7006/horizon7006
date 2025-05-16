@@ -6,3 +6,6 @@ lmao
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=I+love+TypeScript.)](https://git.io/typing-svg)
 haha get it guess
+&zwnj; 
+&zwnj; 
+![](https://komarev.com/ghpvc/?username=horizon7006)
