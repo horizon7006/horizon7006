@@ -17,7 +17,7 @@ echo hi lol
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=horizon7006&show_icons=true&theme=radical)](https://github.com/horizon7006)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=horizon7006&layout=compact&theme=radical)](https://github.com/horizon7006)
 
-# languages i know ig
+## languages i know ig
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css&logoColor=white)
