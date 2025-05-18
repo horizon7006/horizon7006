@@ -9,8 +9,7 @@ set %discord% = horizon7006
 echo.
 echo hi lol
 ```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=I+love+TypeScript.)](https://git.io/typing-svg)
-haha get it guess
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hi.)](https://git.io/typing-svg)
 &zwnj; 
 &zwnj; 
 ![](https://komarev.com/ghpvc/?username=horizon7006)
