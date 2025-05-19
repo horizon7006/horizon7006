@@ -13,8 +13,7 @@ echo hi lol
 &zwnj; 
 &zwnj; 
 ![](https://komarev.com/ghpvc/?username=horizon7006)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=horizon7006&show_icons=true&theme=radical)](https://github.com/horizon7006)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=horizon7006)](https://github.com/horizon7006)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=horizon7006&layout=compact&theme=radical)](https://github.com/horizon7006)
 
 ### languages i know ig
