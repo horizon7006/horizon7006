@@ -11,7 +11,7 @@ horizon7006
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=I+love+torturing+myself.)](https://git.io/typing-svg)
 &zwnj; 
 &zwnj; 
-![](https://komarev.com/ghpvc/?username=horizon7006)
+
 
 ### languages i know ig
 
