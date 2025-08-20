@@ -8,7 +8,6 @@ export DISCORD=horizon7006
 echo $DISCORD
 horizon7006
 ```
-<h1>did you know that i use both windows and linux</h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=I+love+torturing+myself.)](https://git.io/typing-svg)
 &zwnj; 
 &zwnj; 
