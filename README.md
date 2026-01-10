@@ -1,6 +1,6 @@
 idk some random guy who likes to code
 <h3 align="left">
-  You can contact me on <a href='discord.com/users/1331688031593173094'>Discord</a> 
+  You can contact me on <a href="discord.com/users/1331688031593173094">Discord</a> 
 </h3>
 
 ```bash
