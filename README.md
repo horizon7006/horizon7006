@@ -1,14 +1,11 @@
 idk some random guy who likes to code
-<h3 align="left">
-  You can contact me on <a href="https://discord.com/users/1331688031593173094">Discord</a> 
-</h3>
 
 ```bash
-export DISCORD=horizon7006
-echo $DISCORD
-horizon7006
+export FAVORITE=C
+echo $FAVORITE
+C
 ```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=I+love+torturing+myself.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=horizon7006)](https://git.io/typing-svg)
 &zwnj; 
 &zwnj; 
 
