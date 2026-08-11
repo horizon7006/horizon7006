@@ -1,4 +1,5 @@
 idk some random guy who likes to code
+(typing from august 2026 im not dead lol)
 
 ```bash
 export FAVORITE=C
